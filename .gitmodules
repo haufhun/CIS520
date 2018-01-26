@@ -1,0 +1,3 @@
+[submodule "cis520-team"]
+	path = cis520-team
+	url = https://github.com/haufhun/cis520-team.git
